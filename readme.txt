@@ -1,6 +1,7 @@
 ﻿0000000000
 1111111111111
-22222222222223333333333333333
+222222222222233333333333333334444444
+555555
 Git is a distributed version control system.
 Git is a free software distributed under the GPL.
 Git has a mutable index called stage.
@@ -15,8 +16,9 @@ aa
 =======
 0419
 555555
-
 888888
+55555555555555
+
 
 
 
